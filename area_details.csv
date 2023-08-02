@@ -1,0 +1,532 @@
+,State_Code,State_Name,Region_Code,Region_Name,City_Code,City_Name
+0,S1,Kentucky,3,South,C1,Henderson
+1,S1,Kentucky,3,South,C103,Richmond
+2,S1,Kentucky,3,South,C160,Florence
+3,S1,Kentucky,3,South,C209,Murray
+4,S1,Kentucky,3,South,C257,Bowling Green
+5,S1,Kentucky,3,South,C431,Georgetown
+6,S1,Kentucky,3,South,C460,Owensboro
+7,S2,California,4,West,C2,Los Angeles
+8,S2,California,4,West,C9,San Francisco
+9,S2,California,4,West,C44,Roseville
+10,S2,California,4,West,C46,Pasadena
+11,S2,California,4,West,C50,San Jose
+12,S2,California,4,West,C57,Redlands
+13,S2,California,4,West,C63,Whittier
+14,S2,California,4,West,C69,Santa Clara
+15,S2,California,4,West,C71,San Diego
+16,S2,California,4,West,C72,Brentwood
+17,S2,California,4,West,C76,Inglewood
+18,S2,California,4,West,C86,Long Beach
+19,S2,California,4,West,C87,Hesperia
+20,S2,California,4,West,C102,Huntington Beach
+21,S2,California,4,West,C117,Costa Mesa
+22,S2,California,4,West,C126,Anaheim
+23,S2,California,4,West,C133,Vallejo
+24,S2,California,4,West,C134,Mission Viejo
+25,S2,California,4,West,C153,Lancaster
+26,S2,California,4,West,C155,Lake Elsinore
+27,S2,California,4,West,C158,Santa Ana
+28,S2,California,4,West,C163,Salinas
+29,S2,California,4,West,C170,Riverside
+30,S2,California,4,West,C171,Torrance
+31,S2,California,4,West,C175,Murrieta
+32,S2,California,4,West,C183,Oakland
+33,S2,California,4,West,C185,Encinitas
+34,S2,California,4,West,C188,Antioch
+35,S2,California,4,West,C195,Escondido
+36,S2,California,4,West,C202,Fresno
+37,S2,California,4,West,C212,Pico Rivera
+38,S2,California,4,West,C224,Westminster
+39,S2,California,4,West,C226,Pomona
+40,S2,California,4,West,C230,Laguna Niguel
+41,S2,California,4,West,C273,San Bernardino
+42,S2,California,4,West,C277,Ontario
+43,S2,California,4,West,C278,Rancho Cucamonga
+44,S2,California,4,West,C281,Stockton
+45,S2,California,4,West,C283,Sunnyvale
+46,S2,California,4,West,C287,Manteca
+47,S2,California,4,West,C302,Sacramento
+48,S2,California,4,West,C303,Thousand Oaks
+49,S2,California,4,West,C308,Coachella
+50,S2,California,4,West,C315,La Quinta
+51,S2,California,4,West,C328,Vacaville
+52,S2,California,4,West,C330,Bakersfield
+53,S2,California,4,West,C333,Redondo Beach
+54,S2,California,4,West,C351,Woodland
+55,S2,California,4,West,C354,San Mateo
+56,S2,California,4,West,C356,Visalia
+57,S2,California,4,West,C358,Temecula
+58,S2,California,4,West,C359,Yucaipa
+59,S2,California,4,West,C375,Chula Vista
+60,S2,California,4,West,C398,Citrus Heights
+61,S2,California,4,West,C405,San Gabriel
+62,S2,California,4,West,C415,Danville
+63,S2,California,4,West,C430,Moreno Valley
+64,S2,California,4,West,C444,Santa Barbara
+65,S2,California,4,West,C449,La Mesa
+66,S2,California,4,West,C454,Lake Forest
+67,S2,California,4,West,C455,Redding
+68,S2,California,4,West,C456,Chico
+69,S2,California,4,West,C465,Redwood City
+70,S2,California,4,West,C467,Santa Maria
+71,S2,California,4,West,C476,Oxnard
+72,S2,California,4,West,C485,Montebello
+73,S2,California,4,West,C486,El Cajon
+74,S2,California,4,West,C492,Camarillo
+75,S2,California,4,West,C494,Burbank
+76,S2,California,4,West,C495,Modesto
+77,S2,California,4,West,C499,Davis
+78,S2,California,4,West,C500,Morgan Hill
+79,S2,California,4,West,C527,San Clemente
+80,S2,California,4,West,C528,San Luis Obispo
+81,S2,California,4,West,C530,Lodi
+82,S3,Florida,3,South,C3,Fort Lauderdale
+83,S3,Florida,3,South,C16,Melbourne
+84,S3,Florida,3,South,C68,Tampa
+85,S3,Florida,3,South,C77,Tamarac
+86,S3,Florida,3,South,C85,Saint Petersburg
+87,S3,Florida,3,South,C96,Pembroke Pines
+88,S3,Florida,3,South,C101,Miami
+89,S3,Florida,3,South,C109,Jacksonville
+90,S3,Florida,3,South,C122,Lakeland
+91,S3,Florida,3,South,C145,Palm Coast
+92,S3,Florida,3,South,C147,Hialeah
+93,S3,Florida,3,South,C173,Boca Raton
+94,S3,Florida,3,South,C189,Homestead
+95,S3,Florida,3,South,C198,Coral Springs
+96,S3,Florida,3,South,C200,Boynton Beach
+97,S3,Florida,3,South,C208,Deltona
+98,S3,Florida,3,South,C261,Port Orange
+99,S3,Florida,3,South,C265,Apopka
+100,S3,Florida,3,South,C282,Ormond Beach
+101,S3,Florida,3,South,C316,Tallahassee
+102,S3,Florida,3,South,C331,Pompano Beach
+103,S3,Florida,3,South,C334,Orlando
+104,S3,Florida,3,South,C369,North Miami
+105,S3,Florida,3,South,C370,Plantation
+106,S3,Florida,3,South,C371,Port Saint Lucie
+107,S3,Florida,3,South,C389,Miramar
+108,S3,Florida,3,South,C390,Hollywood
+109,S3,Florida,3,South,C400,Daytona Beach
+110,S3,Florida,3,South,C406,Margate
+111,S3,Florida,3,South,C425,Pensacola
+112,S3,Florida,3,South,C443,Jupiter
+113,S3,Florida,3,South,C479,Delray Beach
+114,S3,Florida,3,South,C488,West Palm Beach
+115,S3,Florida,3,South,C506,Kissimmee
+116,S3,Florida,3,South,C509,Sanford
+117,S3,Florida,3,South,C515,Coral Gables
+118,S4,North Carolina,3,South,C4,Concord
+119,S4,North Carolina,3,South,C29,Durham
+120,S4,North Carolina,3,South,C36,Charlotte
+121,S4,North Carolina,3,South,C73,Chapel Hill
+122,S4,North Carolina,3,South,C108,Gastonia
+123,S4,North Carolina,3,South,C141,Burlington
+124,S4,North Carolina,3,South,C144,Cary
+125,S4,North Carolina,3,South,C154,Asheville
+126,S4,North Carolina,3,South,C203,Greenville
+127,S4,North Carolina,3,South,C223,Thomasville
+128,S4,North Carolina,3,South,C248,Greensboro
+129,S4,North Carolina,3,South,C254,Raleigh
+130,S4,North Carolina,3,South,C366,Hickory
+131,S4,North Carolina,3,South,C482,Wilson
+132,S4,North Carolina,3,South,C484,Goldsboro
+133,S5,Washington,4,West,C5,Seattle
+134,S5,Washington,4,West,C97,Des Moines
+135,S5,Washington,4,West,C127,Marysville
+136,S5,Washington,4,West,C138,Vancouver
+137,S5,Washington,4,West,C157,Edmonds
+138,S5,Washington,4,West,C176,Olympia
+139,S5,Washington,4,West,C235,Bellevue
+140,S5,Washington,4,West,C240,Kent
+141,S5,Washington,4,West,C259,Spokane
+142,S5,Washington,4,West,C318,Bellingham
+143,S5,Washington,4,West,C387,Covington
+144,S5,Washington,4,West,C423,Pasco
+145,S5,Washington,4,West,C469,Longview
+146,S5,Washington,4,West,C477,Renton
+147,S6,Texas,1,Central,C6,Fort Worth
+148,S6,Texas,1,Central,C13,Houston
+149,S6,Texas,1,Central,C14,Richardson
+150,S6,Texas,1,Central,C53,San Antonio
+151,S6,Texas,1,Central,C56,Grand Prairie
+152,S6,Texas,1,Central,C62,Dallas
+153,S6,Texas,1,Central,C90,Austin
+154,S6,Texas,1,Central,C93,Harlingen
+155,S6,Texas,1,Central,C113,Amarillo
+156,S6,Texas,1,Central,C115,Huntsville
+157,S6,Texas,1,Central,C129,Laredo
+158,S6,Texas,1,Central,C140,Tyler
+159,S6,Texas,1,Central,C165,Garland
+160,S6,Texas,1,Central,C172,Round Rock
+161,S6,Texas,1,Central,C181,Brownsville
+162,S6,Texas,1,Central,C219,Irving
+163,S6,Texas,1,Central,C225,Coppell
+164,S6,Texas,1,Central,C236,Allen
+165,S6,Texas,1,Central,C237,El Paso
+166,S6,Texas,1,Central,C238,Grapevine
+167,S6,Texas,1,Central,C239,Carrollton
+168,S6,Texas,1,Central,C244,Plano
+169,S6,Texas,1,Central,C260,Keller
+170,S6,Texas,1,Central,C271,Lubbock
+171,S6,Texas,1,Central,C280,Mesquite
+172,S6,Texas,1,Central,C285,College Station
+173,S6,Texas,1,Central,C288,San Angelo
+174,S6,Texas,1,Central,C320,Haltom City
+175,S6,Texas,1,Central,C327,Frisco
+176,S6,Texas,1,Central,C332,Corpus Christi
+177,S6,Texas,1,Central,C344,Pharr
+178,S6,Texas,1,Central,C352,Missouri City
+179,S6,Texas,1,Central,C353,Pearland
+180,S6,Texas,1,Central,C361,Conroe
+181,S6,Texas,1,Central,C373,Odessa
+182,S6,Texas,1,Central,C381,Edinburg
+183,S6,Texas,1,Central,C382,Baytown
+184,S6,Texas,1,Central,C386,Bedford
+185,S6,Texas,1,Central,C391,Deer Park
+186,S6,Texas,1,Central,C393,Mcallen
+187,S6,Texas,1,Central,C397,Port Arthur
+188,S6,Texas,1,Central,C399,The Colony
+189,S6,Texas,1,Central,C426,League City
+190,S6,Texas,1,Central,C436,Waco
+191,S6,Texas,1,Central,C445,Cedar Hill
+192,S6,Texas,1,Central,C481,Texas City
+193,S6,Texas,1,Central,C487,Beaumont
+194,S6,Texas,1,Central,C489,Abilene
+195,S6,Texas,1,Central,C510,San Marcos
+196,S6,Texas,1,Central,C512,Mansfield
+197,S6,Texas,1,Central,C519,Bryan
+198,S7,Wisconsin,1,Central,C7,Madison
+199,S7,Wisconsin,1,Central,C48,Franklin
+200,S7,Wisconsin,1,Central,C125,Green Bay
+201,S7,Wisconsin,1,Central,C159,Milwaukee
+202,S7,Wisconsin,1,Central,C234,Appleton
+203,S7,Wisconsin,1,Central,C250,Kenosha
+204,S7,Wisconsin,1,Central,C329,Waukesha
+205,S7,Wisconsin,1,Central,C343,Eau Claire
+206,S7,Wisconsin,1,Central,C374,West Allis
+207,S7,Wisconsin,1,Central,C385,Superior
+208,S7,Wisconsin,1,Central,C412,La Crosse
+209,S7,Wisconsin,1,Central,C422,Wausau
+210,S7,Wisconsin,1,Central,C502,Sheboygan
+211,S8,Utah,4,West,C8,West Jordan
+212,S8,Utah,4,West,C12,Orem
+213,S8,Utah,4,West,C89,Layton
+214,S8,Utah,4,West,C213,Provo
+215,S8,Utah,4,West,C214,Pleasant Grove
+216,S8,Utah,4,West,C289,Salt Lake City
+217,S8,Utah,4,West,C416,Logan
+218,S8,Utah,4,West,C428,Lehi
+219,S8,Utah,4,West,C447,Draper
+220,S9,Nebraska,1,Central,C10,Fremont
+221,S9,Nebraska,1,Central,C156,Omaha
+222,S9,Nebraska,1,Central,C439,Grand Island
+223,S9,Nebraska,1,Central,C446,Norfolk
+224,S10,Pennsylvania,2,East,C11,Philadelphia
+225,S10,Pennsylvania,2,East,C143,Chester
+226,S10,Pennsylvania,2,East,C228,Allentown
+227,S10,Pennsylvania,2,East,C266,Reading
+228,S10,Pennsylvania,2,East,C284,York
+229,S10,Pennsylvania,2,East,C377,Altoona
+230,S10,Pennsylvania,2,East,C438,Bethlehem
+231,S11,Illinois,1,Central,C15,Naperville
+232,S11,Illinois,1,Central,C23,Chicago
+233,S11,Illinois,1,Central,C37,Orland Park
+234,S11,Illinois,1,Central,C42,Bloomington
+235,S11,Illinois,1,Central,C95,Quincy
+236,S11,Illinois,1,Central,C98,Peoria
+237,S11,Illinois,1,Central,C112,Park Ridge
+238,S11,Illinois,1,Central,C149,Evanston
+239,S11,Illinois,1,Central,C180,Rockford
+240,S11,Illinois,1,Central,C243,Skokie
+241,S11,Illinois,1,Central,C309,Elmhurst
+242,S11,Illinois,1,Central,C319,Woodstock
+243,S11,Illinois,1,Central,C321,Wheeling
+244,S11,Illinois,1,Central,C337,Highland Park
+245,S11,Illinois,1,Central,C349,Bolingbrook
+246,S11,Illinois,1,Central,C362,Tinley Park
+247,S11,Illinois,1,Central,C367,Carol Stream
+248,S11,Illinois,1,Central,C379,Champaign
+249,S11,Illinois,1,Central,C424,Oak Park
+250,S11,Illinois,1,Central,C437,Frankfort
+251,S11,Illinois,1,Central,C453,Buffalo Grove
+252,S11,Illinois,1,Central,C468,Des Plaines
+253,S11,Illinois,1,Central,C473,Palatine
+254,S11,Illinois,1,Central,C478,Glenview
+255,S11,Illinois,1,Central,C490,Normal
+256,S11,Illinois,1,Central,C516,Romeoville
+257,S11,Illinois,1,Central,C524,Arlington Heights
+258,S11,Illinois,1,Central,C525,Oswego
+259,S12,Minnesota,1,Central,C17,Eagan
+260,S12,Minnesota,1,Central,C31,Rochester
+261,S12,Minnesota,1,Central,C32,Minneapolis
+262,S12,Minnesota,1,Central,C34,Saint Paul
+263,S12,Minnesota,1,Central,C70,Lakeville
+264,S12,Minnesota,1,Central,C151,Cottage Grove
+265,S12,Minnesota,1,Central,C279,Moorhead
+266,S12,Minnesota,1,Central,C340,Apple Valley
+267,S12,Minnesota,1,Central,C350,Maple Grove
+268,S12,Minnesota,1,Central,C368,Saint Cloud
+269,S12,Minnesota,1,Central,C440,Woodbury
+270,S12,Minnesota,1,Central,C526,Coon Rapids
+271,S13,Michigan,1,Central,C18,Westland
+272,S13,Michigan,1,Central,C26,Jackson
+273,S13,Michigan,1,Central,C64,Saginaw
+274,S13,Michigan,1,Central,C67,Detroit
+275,S13,Michigan,1,Central,C80,Taylor
+276,S13,Michigan,1,Central,C106,Canton
+277,S13,Michigan,1,Central,C131,Dearborn
+278,S13,Michigan,1,Central,C135,Rochester Hills
+279,S13,Michigan,1,Central,C150,Trenton
+280,S13,Michigan,1,Central,C191,Lansing
+281,S13,Michigan,1,Central,C196,Royal Oak
+282,S13,Michigan,1,Central,C292,Lincoln Park
+283,S13,Michigan,1,Central,C298,Midland
+284,S13,Michigan,1,Central,C342,Sterling Heights
+285,S13,Michigan,1,Central,C355,Grand Rapids
+286,S13,Michigan,1,Central,C364,Dearborn Heights
+287,S13,Michigan,1,Central,C448,Ann Arbor
+288,S13,Michigan,1,Central,C451,Holland
+289,S14,Delaware,2,East,C19,Dover
+290,S14,Delaware,2,East,C41,Wilmington
+291,S15,Indiana,1,Central,C20,New Albany
+292,S15,Indiana,1,Central,C190,La Porte
+293,S15,Indiana,1,Central,C246,Indianapolis
+294,S15,Indiana,1,Central,C258,South Bend
+295,S15,Indiana,1,Central,C297,New Castle
+296,S15,Indiana,1,Central,C314,Mishawaka
+297,S15,Indiana,1,Central,C339,Noblesville
+298,S15,Indiana,1,Central,C383,Greenwood
+299,S15,Indiana,1,Central,C402,Portage
+300,S15,Indiana,1,Central,C404,Elkhart
+301,S16,New York,2,East,C21,New York City
+302,S16,New York,2,East,C22,Troy
+303,S16,New York,2,East,C107,New Rochelle
+304,S16,New York,2,East,C110,Auburn
+305,S16,New York,2,East,C114,Lindenhurst
+306,S16,New York,2,East,C146,Mount Vernon
+307,S16,New York,2,East,C148,Oceanside
+308,S16,New York,2,East,C182,Yonkers
+309,S16,New York,2,East,C199,Buffalo
+310,S16,New York,2,East,C211,Freeport
+311,S16,New York,2,East,C222,Niagara Falls
+312,S16,New York,2,East,C233,Watertown
+313,S16,New York,2,East,C313,Jamestown
+314,S16,New York,2,East,C338,Hempstead
+315,S16,New York,2,East,C411,Rome
+316,S16,New York,2,East,C457,Utica
+317,S17,Arizona,4,West,C24,Gilbert
+318,S17,Arizona,4,West,C43,Phoenix
+319,S17,Arizona,4,West,C49,Scottsdale
+320,S17,Arizona,4,West,C94,Tucson
+321,S17,Arizona,4,West,C124,Mesa
+322,S17,Arizona,4,West,C137,Sierra Vista
+323,S17,Arizona,4,West,C221,Glendale
+324,S17,Arizona,4,West,C229,Tempe
+325,S17,Arizona,4,West,C401,Bullhead City
+326,S17,Arizona,4,West,C419,Avondale
+327,S17,Arizona,4,West,C421,Yuma
+328,S17,Arizona,4,West,C433,Chandler
+329,S18,Virginia,3,South,C25,Springfield
+330,S18,Virginia,3,South,C82,Arlington
+331,S18,Virginia,3,South,C142,Waynesboro
+332,S18,Virginia,3,South,C167,Alexandria
+333,S18,Virginia,3,South,C174,Virginia Beach
+334,S18,Virginia,3,South,C194,Harrisonburg
+335,S18,Virginia,3,South,C245,Suffolk
+336,S18,Virginia,3,South,C263,Charlottesville
+337,S18,Virginia,3,South,C270,Chesapeake
+338,S18,Virginia,3,South,C312,Newport News
+339,S18,Virginia,3,South,C410,Hampton
+340,S19,Tennessee,3,South,C27,Memphis
+341,S19,Tennessee,3,South,C40,Bristol
+342,S19,Tennessee,3,South,C88,Murfreesboro
+343,S19,Tennessee,3,South,C272,Johnson City
+344,S19,Tennessee,3,South,C290,Knoxville
+345,S19,Tennessee,3,South,C301,Clarksville
+346,S19,Tennessee,3,South,C317,Nashville
+347,S19,Tennessee,3,South,C347,Chattanooga
+348,S19,Tennessee,3,South,C464,Bartlett
+349,S19,Tennessee,3,South,C466,Lebanon
+350,S19,Tennessee,3,South,C470,Hendersonville
+351,S20,Alabama,3,South,C28,Decatur
+352,S20,Alabama,3,South,C123,Montgomery
+353,S20,Alabama,3,South,C217,Mobile
+354,S20,Alabama,3,South,C326,Hoover
+355,S20,Alabama,3,South,C429,Tuscaloosa
+356,S21,South Carolina,3,South,C30,Columbia
+357,S21,South Carolina,3,South,C311,North Charleston
+358,S21,South Carolina,3,South,C322,Summerville
+359,S21,South Carolina,3,South,C341,Mount Pleasant
+360,S21,South Carolina,3,South,C372,Rock Hill
+361,S22,Oregon,4,West,C33,Portland
+362,S22,Oregon,4,West,C128,Salem
+363,S22,Oregon,4,West,C242,Tigard
+364,S22,Oregon,4,West,C253,Redmond
+365,S22,Oregon,4,West,C262,Medford
+366,S22,Oregon,4,West,C346,Gresham
+367,S22,Oregon,4,West,C475,Eugene
+368,S22,Oregon,4,West,C493,Hillsboro
+369,S23,Colorado,4,West,C35,Aurora
+370,S23,Colorado,4,West,C61,Denver
+371,S23,Colorado,4,West,C78,Colorado Springs
+372,S23,Colorado,4,West,C83,Arvada
+373,S23,Colorado,4,West,C104,Louisville
+374,S23,Colorado,4,West,C118,Parker
+375,S23,Colorado,4,West,C207,Pueblo
+376,S23,Colorado,4,West,C267,Broomfield
+377,S23,Colorado,4,West,C294,Littleton
+378,S23,Colorado,4,West,C300,Fort Collins
+379,S23,Colorado,4,West,C324,Englewood
+380,S23,Colorado,4,West,C378,Thornton
+381,S23,Colorado,4,West,C432,Loveland
+382,S23,Colorado,4,West,C480,Commerce City
+383,S23,Colorado,4,West,C498,Longmont
+384,S23,Colorado,4,West,C511,Greeley
+385,S24,Iowa,1,Central,C38,Urbandale
+386,S24,Iowa,1,Central,C205,Cedar Rapids
+387,S24,Iowa,1,Central,C363,Dubuque
+388,S24,Iowa,1,Central,C394,Iowa City
+389,S24,Iowa,1,Central,C471,Waterloo
+390,S25,Ohio,2,East,C39,Columbus
+391,S25,Ohio,2,East,C47,Newark
+392,S25,Ohio,2,East,C58,Hamilton
+393,S25,Ohio,2,East,C60,Akron
+394,S25,Ohio,2,East,C65,Medina
+395,S25,Ohio,2,East,C66,Dublin
+396,S25,Ohio,2,East,C75,Cincinnati
+397,S25,Ohio,2,East,C130,Grove City
+398,S25,Ohio,2,East,C139,Cleveland
+399,S25,Ohio,2,East,C161,Lorain
+400,S25,Ohio,2,East,C168,Toledo
+401,S25,Ohio,2,East,C192,Cuyahoga Falls
+402,S25,Ohio,2,East,C216,Parma
+403,S25,Ohio,2,East,C293,Marion
+404,S25,Ohio,2,East,C408,Mentor
+405,S25,Ohio,2,East,C513,Elyria
+406,S25,Ohio,2,East,C531,Mason
+407,S26,Missouri,1,Central,C45,Independence
+408,S26,Missouri,1,Central,C120,Gladstone
+409,S26,Missouri,1,Central,C178,Jefferson City
+410,S26,Missouri,1,Central,C179,Saint Peters
+411,S26,Missouri,1,Central,C286,Saint Louis
+412,S26,Missouri,1,Central,C435,Kirkwood
+413,S26,Missouri,1,Central,C491,Saint Charles
+414,S27,Oklahoma,1,Central,C51,Edmond
+415,S27,Oklahoma,1,Central,C111,Norman
+416,S27,Oklahoma,1,Central,C252,Tulsa
+417,S27,Oklahoma,1,Central,C255,Muskogee
+418,S27,Oklahoma,1,Central,C269,Oklahoma City
+419,S27,Oklahoma,1,Central,C388,Broken Arrow
+420,S27,Oklahoma,1,Central,C409,Lawton
+421,S28,New Mexico,4,West,C52,Carlsbad
+422,S28,New Mexico,4,West,C169,Farmington
+423,S28,New Mexico,4,West,C306,Albuquerque
+424,S28,New Mexico,4,West,C325,Las Cruces
+425,S28,New Mexico,4,West,C365,Santa Fe
+426,S28,New Mexico,4,West,C442,Clovis
+427,S28,New Mexico,4,West,C483,Rio Rancho
+428,S29,Louisiana,3,South,C54,Monroe
+429,S29,Louisiana,3,South,C152,Bossier City
+430,S29,Louisiana,3,South,C241,Lafayette
+431,S29,Louisiana,3,South,C336,Lake Charles
+432,S29,Louisiana,3,South,C462,Kenner
+433,S30,Connecticut,2,East,C55,Fairfield
+434,S30,Connecticut,2,East,C92,Manchester
+435,S30,Connecticut,2,East,C166,Norwich
+436,S30,Connecticut,2,East,C210,Middletown
+437,S30,Connecticut,2,East,C256,Meriden
+438,S30,Connecticut,2,East,C417,Waterbury
+439,S30,Connecticut,2,East,C452,Milford
+440,S30,Connecticut,2,East,C507,Shelton
+441,S30,Connecticut,2,East,C508,Danbury
+442,S31,New Jersey,2,East,C59,Westfield
+443,S31,New Jersey,2,East,C74,Morristown
+444,S31,New Jersey,2,East,C79,Belleville
+445,S31,New Jersey,2,East,C81,Lakewood
+446,S31,New Jersey,2,East,C84,Hackensack
+447,S31,New Jersey,2,East,C136,Plainfield
+448,S31,New Jersey,2,East,C162,Linden
+449,S31,New Jersey,2,East,C164,New Brunswick
+450,S31,New Jersey,2,East,C220,Vineland
+451,S31,New Jersey,2,East,C231,Bridgeton
+452,S31,New Jersey,2,East,C247,Bayonne
+453,S31,New Jersey,2,East,C268,Paterson
+454,S31,New Jersey,2,East,C276,Perth Amboy
+455,S31,New Jersey,2,East,C310,Passaic
+456,S31,New Jersey,2,East,C335,Orange
+457,S31,New Jersey,2,East,C497,Atlantic City
+458,S31,New Jersey,2,East,C501,Clifton
+459,S31,New Jersey,2,East,C523,East Orange
+460,S32,Massachusetts,2,East,C91,Lowell
+461,S32,Massachusetts,2,East,C105,Lawrence
+462,S32,Massachusetts,2,East,C218,New Bedford
+463,S32,Massachusetts,2,East,C232,Everett
+464,S32,Massachusetts,2,East,C274,Leominster
+465,S32,Massachusetts,2,East,C304,Malden
+466,S32,Massachusetts,2,East,C305,Holyoke
+467,S32,Massachusetts,2,East,C360,Revere
+468,S32,Massachusetts,2,East,C472,Cambridge
+469,S32,Massachusetts,2,East,C474,Beverly
+470,S32,Massachusetts,2,East,C505,Andover
+471,S32,Massachusetts,2,East,C517,Marlborough
+472,S33,Georgia,3,South,C119,Atlanta
+473,S33,Georgia,3,South,C132,Warner Robins
+474,S33,Georgia,3,South,C186,Roswell
+475,S33,Georgia,3,South,C204,Macon
+476,S33,Georgia,3,South,C215,Smyrna
+477,S33,Georgia,3,South,C407,Sandy Springs
+478,S33,Georgia,3,South,C418,Athens
+479,S33,Georgia,3,South,C420,Marietta
+480,S33,Georgia,3,South,C503,East Point
+481,S34,Nevada,4,West,C99,Las Vegas
+482,S34,Nevada,4,West,C193,Reno
+483,S34,Nevada,4,West,C227,North Las Vegas
+484,S34,Nevada,4,West,C307,Sparks
+485,S35,Rhode Island,2,East,C100,Warwick
+486,S35,Rhode Island,2,East,C206,Providence
+487,S35,Rhode Island,2,East,C384,Woonsocket
+488,S35,Rhode Island,2,East,C396,Cranston
+489,S36,Mississippi,3,South,C201,Gulfport
+490,S36,Mississippi,3,South,C296,Southaven
+491,S36,Mississippi,3,South,C414,Hattiesburg
+492,S37,Arkansas,3,South,C116,Fayetteville
+493,S37,Arkansas,3,South,C187,Jonesboro
+494,S37,Arkansas,3,South,C291,Little Rock
+495,S37,Arkansas,3,South,C323,Hot Springs
+496,S37,Arkansas,3,South,C380,Texarkana
+497,S37,Arkansas,3,South,C441,Rogers
+498,S37,Arkansas,3,South,C458,Conway
+499,S37,Arkansas,3,South,C520,Pine Bluff
+500,S37,Arkansas,3,South,C529,Springdale
+501,S38,Montana,4,West,C121,Great Falls
+502,S38,Montana,4,West,C264,Missoula
+503,S38,Montana,4,West,C275,Bozeman
+504,S38,Montana,4,West,C345,Billings
+505,S38,Montana,4,West,C434,Helena
+506,S39,New Hampshire,2,East,C463,Nashua
+507,S40,Maryland,2,East,C184,Clinton
+508,S40,Maryland,2,East,C197,Rockville
+509,S40,Maryland,2,East,C249,Baltimore
+510,S40,Maryland,2,East,C427,Gaithersburg
+511,S40,Maryland,2,East,C518,Laurel
+512,S40,Maryland,2,East,C522,Hagerstown
+513,S41,District of Columbia,2,East,C177,Washington
+514,S42,Kansas,1,Central,C251,Olathe
+515,S42,Kansas,1,Central,C357,Overland Park
+516,S42,Kansas,1,Central,C376,Manhattan
+517,S42,Kansas,1,Central,C392,Wichita
+518,S42,Kansas,1,Central,C496,Garden City
+519,S44,Maine,2,East,C295,Bangor
+520,S45,South Dakota,1,Central,C299,Sioux Falls
+521,S45,South Dakota,1,Central,C504,Rapid City
+522,S45,South Dakota,1,Central,C521,Aberdeen
+523,S46,Idaho,4,West,C348,Meridian
+524,S46,Idaho,4,West,C395,Boise
+525,S46,Idaho,4,West,C413,Lewiston
+526,S46,Idaho,4,West,C450,Pocatello
+527,S46,Idaho,4,West,C461,Caldwell
+528,S46,Idaho,4,West,C514,Twin Falls
+529,S47,North Dakota,1,Central,C403,Fargo
+530,S48,Wyoming,4,West,C459,Cheyenne
